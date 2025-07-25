@@ -1,4 +1,4 @@
-# 💰 Agetware-Assignment  Bank Lending System (Backend Only)
+# 💰 Agetware-Assignment  Bank Lending System (Backend)
 
 A robust lending system API built with **Node.js**, **Express**, and **SQLite**. It enables banks or lenders to manage loans, payments, and customer overviews seamlessly.
 
