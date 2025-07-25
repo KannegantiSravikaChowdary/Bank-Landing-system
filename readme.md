@@ -40,6 +40,7 @@ A robust lending system API built with **Node.js**, **Express**, and **SQLite**.
 
 ### 🔌API Endpoints
 **➕ POST /api/v1/loans**
+
 Create a new loan
 
 json
@@ -52,7 +53,9 @@ json
 }
 ```
 **💸 POST /api/v1/loans/:loanId/payments**
+
 Record a loan payment
+
 json
 ```
 {
@@ -67,7 +70,7 @@ Get loan ledger with payment history
 
 Get customer’s loan summary with EMI, total paid, and remaining balance
 
-## Dependencies
+## 📦Dependencies
 
 express
 
@@ -79,6 +82,7 @@ sqlite3
 
 ## ✅ Status
 All routes tested with Thunder Client
+
 Database auto-initialized on run
 
 
