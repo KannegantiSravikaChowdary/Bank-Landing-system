@@ -60,15 +60,21 @@ json
 }
 ```
 **📒 GET /api/v1/loans/:loanId/ledger**
+
 Get loan ledger with payment history
 
 **👤 GET /api/v1/customers/:customerId/overview**
+
 Get customer’s loan summary with EMI, total paid, and remaining balance
 
 ## Dependencies
+
 express
+
 dotenv
+
 uuid
+
 sqlite3
 
 ## ✅ Status
